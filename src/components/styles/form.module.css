@@ -1,0 +1,7 @@
+.formCreateTodo{
+    box-sizing: border-box;
+    width: 500px;
+    height: 100px;
+    background-color: orange;
+    padding: 15px;
+}
